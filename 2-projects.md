@@ -3,5 +3,6 @@ layout: page
 title: Projects
 ---
 
+Links to project webpages:
 
-<img src="/images/under-construction.jpg" width="400">
+* [Renewable Reindeer](http://www.nina.no/english/Research/Projects/Renewable-Reindeer)
