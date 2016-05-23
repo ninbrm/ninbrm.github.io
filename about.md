@@ -39,12 +39,13 @@ In my research I aim to develop theory to support applied problems. As Kurt Lewi
 
 ### collisions
 
-![moose collision](/images/moose_collision_SteinJ.Bjørge.jpg "credit: Stein J. Bjørge")
+<img src="/images/moose_collision_SteinJ.Bjørge.jpg" title="credit: Stein J. Bjørge" width="400">
+
 
 ### adaptive management
   In the "AdMan"-project we are developing a model for the adaptive management of human land use in protected areas.
 
-![reindeer](/images/reindeer_queu.jpg "reindeer")
+<img src="/images/reindeer_queu.jpg" width="400">
 
 <img src="http://www.limpopoleopardproject.com/uploads/4/3/3/1/43316401/9596901.jpg?612" width="400">
 
