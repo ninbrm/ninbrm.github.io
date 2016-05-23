@@ -25,7 +25,7 @@ In my research I aim to develop theory to support applied problems. As Kurt Lewi
 
 ## Details:
 
-### animal_movement
+### animal movement
   My past research has primarily focused on the study of animal space use and movements in relation to environmental heterogeneity. For this work I have combined formal theoretical developments with the analysis of large spatial data sets.
 
 
@@ -34,7 +34,7 @@ In my research I aim to develop theory to support applied problems. As Kurt Lewi
 
 ### collisions
 
-### adaptive_management
+### adaptive management
   In the "AdMan"-project we are developing a model for the adaptive management of human land use in protected areas.
 
 ### tourism
