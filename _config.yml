@@ -1,26 +1,26 @@
 # Dependencies
 #markdown:         redcarpet -- depricated
-#highlighter:      rouge #pygments -- not supported option
+highlighter:      rouge #pygments -- not supported option
 
 # Permalinks
-#permalink:        pretty
+permalink:        pretty
 #relative_permalinks: true -- depricated feature
 
 # Setup
 title:            Bram Van Moorter
-tagline:          'blog'
-description:      '<a href="http://www.nina.no/Kontakt/Ansatte/Ansattinformasjon/AnsattID/14700" target="_blank">Bram Van Moorter</a>'s blog.'
-url:              /
+tagline:          'Blog'
+description:      '<a href="http://www.nina.no/english/Contact/Employees/Employee-info/AnsattID/14700" target="_blank">Bram Van Moorter</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           /
-  url:            /
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
 paginate:         5
 
 # Custom vars
-#version:          2.1.0
+version:          2.1.0
 
 github:
-  repo:           #https://github.com/poole/hyde
+  repo:           https://github.com/poole/hyde
