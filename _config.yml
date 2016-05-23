@@ -3,7 +3,7 @@
 #highlighter:      rouge #pygments -- not supported option
 
 # Permalinks
-permalink:        pretty
+#permalink:        pretty
 #relative_permalinks: true -- depricated feature
 
 # Setup
