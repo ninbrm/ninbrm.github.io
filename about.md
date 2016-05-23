@@ -39,12 +39,12 @@ In my research I aim to develop theory to support applied problems. As Kurt Lewi
 
 ### collisions
 
-![moose collision](/images/moose_collision_SteinJ.Bjørge.png "credit: Stein J. Bjørge")
+![moose collision](/images/moose_collision_SteinJ.Bjørge.jpg "credit: Stein J. Bjørge")
 
 ### adaptive management
   In the "AdMan"-project we are developing a model for the adaptive management of human land use in protected areas.
 
-![reindeer](/images/reindeer_queu.png "reindeer")
+![reindeer](/images/reindeer_queu.jpg "reindeer")
 
 ### tourism
   I pursue further integration of ecological and societal dynamics in a Socio-Ecological Systems framework using approaches from Ecosystem Services and Environmental Psychology. 
