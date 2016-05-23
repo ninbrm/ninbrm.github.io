@@ -3,4 +3,7 @@ layout: post
 title: First Post
 ---
 
-This is my first post commited to the blog. Let's see whether we can get this to work...
+This is a picture of a reindeer that is contributing its movement data to our databases: 
+
+![Reindeer](/images/reindeer.png "Reindeer")
+
