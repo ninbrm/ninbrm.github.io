@@ -3,10 +3,6 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  This blog is made using the <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for Jekyll with GitHub.
-</p>
-
 ## Key words:
 
 * spatial ecology
@@ -20,8 +16,6 @@ title: About
 
 ## Profile
 In my research I aim to develop theory to support applied problems. As Kurt Lewin (social psychologist) famously said: "There is nothing as practical as a good theory."
-
-<a href="http://scholar.google.com/citations?user=JMC4Q2gAAAAJ&hl=en" target="_blank">Google Scholar profile</a>
 
 ## Details:
 
