@@ -3,9 +3,7 @@ layout: page
 title: CV
 ---
 
-![under construction](/images/under-construction.jpg)
-
-<img src="/images/under-construction.jpg" width="48">
+<img src="/images/under-construction.jpg" width="400">
 
 ## Research interests:
 * spatial ecology
