@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-![under construction](/images/under-construction.jpg)
+![under construction](/images/under-construction.jpg =250x)
 
 
 ## Research interests:
