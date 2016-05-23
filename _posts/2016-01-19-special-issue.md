@@ -9,7 +9,7 @@ title: Special Issue: Stuck in motion? Reconnecting questions and tools in movem
 
 *Journal of Animal Ecology, 85(1): 5-84.*
 
-Edited by **Bram Van Moorter, Manuela Panzacchi, Francesca Cagnacci and Mark S. Boyce**
+Edited by **Bram Van Moorter**, **Manuela Panzacchi**, **Francesca Cagnacci** and **Mark S. Boyce**
 
 Metabolism Special Feature Movements have long been identified as the glue linking individual behaviour to populations (Turchin 1998) and, ultimately, to species’ conservation and management. However, the field of movement ecology developed only recently, thanks to the rapidly increasing availability of both satellite tracking data of animal locations and of high-resolution environmental data layers. This led to a "perfect storm of opportunities" (Cagnacci et al. 2010) and to the rapid proliferation of a vast diversity of sophisticated analytical tools. However, for the classical schooled ecologists it has become increasingly challenging to find the most appropriate tool to answer a specific research question, and the current discourse in movement ecology is shifting in focus from the actual ecological questions to the analytical techniques to answer them. In conclusion, despite the great leap in the amount of information available, the way such information is used for ecology, management and conservation often falls short of its promises.
 
