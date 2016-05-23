@@ -28,13 +28,13 @@ In my research I aim to develop theory to support applied problems. As Kurt Lewi
 ### animal movement
   My past research has primarily focused on the study of animal space use and movements in relation to environmental heterogeneity. For this work I have combined formal theoretical developments with the analysis of large spatial data sets.
 
-![framework](/images/glue.png "framework")
+<img src="/images/glue.png" width="400">
 
 
 ### connectivity
   In my current work is an increasing emphasis on the explicit linkage of spatial ecological processes with human activities and the mitigation thereof to support ongoing ecosystem functioning. As part of the <a href="http://www.nina.no/english/Research/Projects/Renewable-Reindeer" target="_blank">"Renewable Reindeer"-project</a>, we are evaluating the effects of human infrastructures on habitat loss and fragmentation through graph-based connectivity measures.
 
-![corridors](/images/corridors.png "corridors")
+<img src="/images/corridors.png" width="400">
 
 
 ### collisions
