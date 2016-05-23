@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+#markdown:         redcarpet -- depricated
 highlighter:      rouge #pygments -- not supported option
 
 # Permalinks
