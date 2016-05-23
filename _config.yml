@@ -8,7 +8,7 @@ permalink:        pretty
 
 # Setup
 title:            Bram Van Moorter
-tagline:          'Blog'
+tagline:          '@NINA'
 description:      'Researcher at the Norwegian Institute for Nature Research (<a href="http://www.nina.no/english/Home" target="_blank">NINA</a>) in Norway.'
 url:              http://www.nina.no/english/Contact/Employees/Employee-info/AnsattID/14700
 baseurl:          /
