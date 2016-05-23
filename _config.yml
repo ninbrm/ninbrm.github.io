@@ -8,19 +8,19 @@ permalink:        pretty
 
 # Setup
 title:            Bram Van Moorter
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+tagline:          'blog'
+description:      '<a href="http://www.nina.no/Kontakt/Ansatte/Ansattinformasjon/AnsattID/14700" target="_blank">Bram Van Moorter</a>'s blog.'
+url:              /
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           /
+  url:            /
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+#version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           #https://github.com/poole/hyde
