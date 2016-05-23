@@ -12,10 +12,12 @@ tagline:          'Blog'
 description:      'My blog'
 url:              http://www.nina.no/english/Contact/Employees/Employee-info/AnsattID/14700
 baseurl:          /
+image:            "http://foto.nina.no/gs/handler/getmedia.ashx?moid=6&dt=2&g=3"
 
 author:
   name:           'Bram Van Moorter'
   url:            http://www.nina.no/english/Contact/Employees/Employee-info/AnsattID/14700
+  image:
 
 paginate:         5
 
