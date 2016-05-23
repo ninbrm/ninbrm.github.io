@@ -5,6 +5,7 @@ title: CV
 
 ![under construction](/images/under-construction.jpg)
 
+<img src="/images/under-construction.jpg" width="48">
 
 ## Research interests:
 * spatial ecology
