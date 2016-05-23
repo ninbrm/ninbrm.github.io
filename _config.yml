@@ -11,7 +11,7 @@ title:            Bram Van Moorter
 tagline:          'Blog'
 description:      'Researcher at the Norwegian Institute for Nature Research (<a href="http://www.nina.no/english/Home" target="_blank">NINA</a>) in Norway.'
 url:              http://www.nina.no/english/Contact/Employees/Employee-info/AnsattID/14700
-baseurl:          http://www.nina.no/english/Contact/Employees/Employee-info/AnsattID/14700
+baseurl:          /
 image:            "http://foto.nina.no/gs/handler/getmedia.ashx?moid=5&dt=2&g=3"
 
 author:
