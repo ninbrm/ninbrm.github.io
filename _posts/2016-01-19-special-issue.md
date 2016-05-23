@@ -3,6 +3,8 @@ layout: post
 title: Special Issue: Stuck in motion? Reconnecting questions and tools in movement ecology
 ---
 
+# Special Issue: Stuck in motion? Reconnecting questions and tools in movement ecology
+
 <a href="http://onlinelibrary.wiley.com/doi/10.1111/jane.2016.85.issue-1/issuetoc#group2" target="_blank">
   <img src="http://www.journalofanimalecology.org/SpringboardWebApp/userfiles/jane/image/Covers/85_1%20cover%20image.jpg" width="200">
 </a>
