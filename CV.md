@@ -20,3 +20,4 @@ title: CV
 
 <a href="http://scholar.google.com/citations?user=JMC4Q2gAAAAJ&hl=en" target="_blank">Google Scholar profile</a>
 
+<img src="/images/reindeer.png" width="400">
