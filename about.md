@@ -46,7 +46,14 @@ In my research I aim to develop theory to support applied problems. As Kurt Lewi
 
 ![reindeer](/images/reindeer_queu.jpg "reindeer")
 
+<img src="http://www.limpopoleopardproject.com/uploads/4/3/3/1/43316401/9596901.jpg?612" width="400">
+
 ### tourism
   I pursue further integration of ecological and societal dynamics in a Socio-Ecological Systems framework using approaches from Ecosystem Services and Environmental Psychology. 
 
 ### ecosystem services
+
+  I am exploring the use of the IPBES conceptual framework:
+  
+  <img src="http://www.ipbes.net/sites/default/files/images/sections/Screenshot%202016-02-05%2013.07.10.png" width="400">
+
