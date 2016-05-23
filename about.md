@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  This blog is using the <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for Jekyll with GitHub.
+  This blog is made using the <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for Jekyll with GitHub.
 </p>
 
 ## Key words:
