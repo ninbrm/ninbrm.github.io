@@ -1,10 +1,10 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge #pygments -- not supported option
 
 # Permalinks
 permalink:        pretty
-#relative_permalinks: true #depricated feature
+#relative_permalinks: true -- depricated feature
 
 # Setup
 title:            Bram Van Moorter
