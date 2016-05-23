@@ -5,6 +5,10 @@ title: CV
 
 <img src="/images/under-construction.jpg" width="400">
 
+## Current employer:
+<img src="http://foto.nina.no/gs/handler/getmedia.ashx?moid=5&dt=2&g=3" width="400">
+
+
 ## Research interests:
 * spatial ecology
 * animal space use and movement
