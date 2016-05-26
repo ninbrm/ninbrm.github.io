@@ -10,7 +10,6 @@ title: book: Spatial Database for GPS Wildlife Tracking Data
 </a>
     
 
-Our book, [Spatial Database for GPS Wildlife Tracking Data]
-(http://link.springer.com/book/10.1007%2F978-3-319-03743-1), is published! It present practial guidance to set up an advanced data management system for data from GPS tracking of animals in PostgreSQL/PostGIS and R. 
+Our book, <a href="http://link.springer.com/book/10.1007%2F978-3-319-03743-1" target="_blank">Spatial Database for GPS Wildlife Tracking Data</a>, is published! It present practial guidance to set up an advanced data management system for data from GPS tracking of animals in PostgreSQL/PostGIS and R. 
 
 
