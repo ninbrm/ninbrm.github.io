@@ -3,6 +3,8 @@ layout: post
 title: PhD position: Sustainable tourism
 ---
 
+> CLOSED
+
 # PhD on tourism and reindeer at the University of Stirling/NINA
 
 <div class="message">
