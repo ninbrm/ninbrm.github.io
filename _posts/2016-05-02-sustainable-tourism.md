@@ -19,5 +19,3 @@ A funded PhD project is available in the Conservation Science Group at the Unive
 "Determining the impact of future tourism scenarios on sustainable use of mountains in the face of climate and land use changes for Norway’s emblematic wild reindeer."
 
 [See full anouncement at the University of Stirling's website.](http://www.stir.ac.uk/scholarships/natural-sciences/determining-the-impact-of-future-tourism-scenarios-on-sustainable-use-of-mountains-in-the-face-of-climate-and-land-use-changes-for-norways-emblematic-wild-reindeer.html)
-
-or contact [me](http://www.nina.no/english/Contact/Employees/Employee-info/AnsattID/14700).
